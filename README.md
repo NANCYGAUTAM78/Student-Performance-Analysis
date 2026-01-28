@@ -26,17 +26,6 @@ This project helps understand score distributions, gender-wise performance, and 
 
 ---
 
-## 📂 Project Structure
-
-Student-Performance-Analysis/
-│── app.py # Streamlit application
-│── student_performance.csv # Dataset
-│── student_analysis.ipynb # Data analysis notebook
-│── README.md # Project documentation
-│── .gitignore
-
----
-
 ## ▶️ How to Run the Project Locally
 
 ### 1️⃣ Clone the repository
