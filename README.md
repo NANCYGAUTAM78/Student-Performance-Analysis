@@ -66,12 +66,22 @@ streamlit run app.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
+## Dataset
 
-**Nancy Gautam** - [@NANCYGAUTAM78](https://github.com/NANCYGAUTAM78)
+The dataset contains the following columns:
 
-Project Link: [https://github.com/NANCYGAUTAM78/Student-Performance-Analysis.git]
+- gender
+- study_hours
+- parental_education
+- math_score
+- reading_score
+- writing_score
 
-## ⭐ Show Your Support
+---
 
-If you find this project helpful, please give it a star!
+## Author
+
+Nancy Gautam  
+B.Tech Computer Science & Engineering  
+
+GitHub: https://github.com/NANCYGAUTAM78
