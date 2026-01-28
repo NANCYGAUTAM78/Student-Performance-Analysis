@@ -55,6 +55,8 @@ streamlit run app.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+---
+
 ## Dataset
 
 The dataset contains the following columns:
